@@ -2,11 +2,11 @@
 #define SETTINGS_H
 
 // Defina seu Wi-Fi
-#define WIFI_SSID "JHC"
-#define WIFI_PASS "jhc302010"
+#define WIFI_SSID "*****"
+#define WIFI_PASS "******"
 
 // Defina a URL do ThingSpeak
-#define THINGSPEAK_API_KEY "X1SKC7NG5IL8HJKI"
+#define THINGSPEAK_API_KEY "sua_api_de_escrita"
 #define THINGSPEAK_URL "api.thingspeak.com"
 
 #endif
